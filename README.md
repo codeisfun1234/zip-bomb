@@ -1,1 +1,2 @@
-# zip-bomb
+# zip bomb
+zip bomb
